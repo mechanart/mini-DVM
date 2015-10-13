@@ -37,40 +37,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=DVM_TopLevel.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=KUFJSSBV
-
-[Document2]
-DocumentPath=Analog_Front_End.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=0
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=CINDYVKV
-
-[Document3]
 DocumentPath=pcb\mini-dvm.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -87,7 +53,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UBKVEALW
 
-[Document4]
+[Document2]
 DocumentPath=..\..\..\AltiumLibrary\trunk\Footprints\Resistors\Chip\RESC1005X40L25N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -104,7 +70,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BDJAINCR
 
-[Document5]
+[Document3]
 DocumentPath=..\..\..\AltiumLibrary\trunk\Footprints\Capacitors\CAPC1005X50L25N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -121,14 +87,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OJRLKSKI
 
-[Document6]
+[Document4]
 DocumentPath=sch\ATmega_MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -138,7 +104,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JVVBBXCA
 
-[Document7]
+[Document5]
 DocumentPath=..\..\..\AltiumLibrary\trunk\Footprints\QFN\QFN50P500X500X100-32N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -155,7 +121,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YKEEWSDS
 
-[Document8]
+[Document6]
 DocumentPath=..\..\..\AltiumLibrary\trunk\Footprints\QFN\QFN50P500X500X100-33T325X325L.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -171,6 +137,40 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JPVISTYW
+
+[Document7]
+DocumentPath=sch\Analog_Front_End.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CINDYVKV
+
+[Document8]
+DocumentPath=sch\DVM_TopLevel.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=2
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KUFJSSBV
 
 [Configuration1]
 Name=Default Configuration
