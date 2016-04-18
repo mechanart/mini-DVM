@@ -1,0 +1,413 @@
+*************************************************************
+FileName = mini-dvm.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top CMP/GND
+      File : mini-dvm.GTL
+
+    Adding Layer      : Top CMP/GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Top SIG/PWR
+      File : mini-dvm.G1
+
+    Adding Layer      : Top SIG/PWR
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D31
+    D32
+    D33
+    D34
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Bottom SIG/PWR
+      File : mini-dvm.G2
+
+    Adding Layer      : Bottom SIG/PWR
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D31
+    D32
+    D33
+    D34
+    D36
+    D37
+    D38
+*************************************************************
+
+*************************************************************
+Generating : Bottom CMP/GND
+      File : mini-dvm.GBL
+
+    Adding Layer      : Bottom CMP/GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D19
+    D23
+    D25
+    D31
+    D32
+    D33
+    D35
+    D36
+    D37
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : mini-dvm.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top CMP/GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D16
+    D18
+    D19
+    D20
+    D21
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : mini-dvm.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D31
+    D64
+    D65
+    D66
+    D67
+    D68
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : mini-dvm.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top CMP/GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D29
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : mini-dvm.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom CMP/GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D54
+    D73
+    D77
+    D81
+    D83
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : mini-dvm.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D65
+    D66
+    D68
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : mini-dvm.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom CMP/GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D19
+    D23
+    D25
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D55
+    D56
+    D57
+    D58
+    D60
+    D61
+    D62
+    D111
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : mini-dvm.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D112
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : mini-dvm.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D113
+    D114
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 11
+      File : mini-dvm.GM11
+
+    Adding Layer      : Mechanical 11
+
+
+Used DCodes :
+    D67
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : mini-dvm.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D66
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : mini-dvm.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D66
+    D115
+    D116
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 7
+      File : mini-dvm.GM7
+
+    Adding Layer      : Mechanical 7
+
+
+Used DCodes :
+    D114
+*************************************************************
+
+*************************************************************
+Generating : Multi-Layer
+      File : mini-dvm.GML
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Dielectric 1
+      File : mini-dvm.1
+
+    Adding Layer      : Dielectric 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Dielectric 2
+      File : mini-dvm.2
+
+    Adding Layer      : Dielectric 2
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Dielectric 3
+      File : mini-dvm.3
+
+    Adding Layer      : Dielectric 3
+
+
+Used DCodes :
+*************************************************************
+

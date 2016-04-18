@@ -1,0 +1,243 @@
+Protel Design System Design Rule Check
+PCB File : C:\oshw\projects\mini-DVM\trunk\pcb\mini-dvm.PcbDoc
+Date     : 1/5/2016
+Time     : 8:58:57 PM
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Silk primitive without silk layer
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+   Violation between Text "U3" (320mil,305mil)  Bottom Overlay and 
+                     Arc (284.921mil,336.535mil)  Bottom Overlay
+   Violation between Text "U5" (620mil,885mil)  Top Overlay and 
+                     Track (629.921mil,859.811mil)(629.921mil,877.921mil)  Top Overlay
+   Violation between Text "U5" (620mil,885mil)  Top Overlay and 
+                     Track (611.811mil,877.921mil)(629.921mil,877.921mil)  Top Overlay
+   Violation between Text "R16" (365mil,650mil)  Top Overlay and 
+                     Track (409.63mil,692.945mil)(437.469mil,720.784mil)  Top Overlay
+   Violation between Text "R20" (385mil,850mil)  Top Overlay and 
+                     Track (400.315mil,848.748mil)(439.685mil,848.748mil)  Top Overlay
+   Violation between Text "C17" (200mil,810mil)  Top Overlay and 
+                     Track (200.197mil,801.457mil)(249.803mil,801.457mil)  Top Overlay
+   Violation between Text "C19" (675mil,765mil)  Top Overlay and 
+                     Track (667.89mil,760.37mil)(707.26mil,760.37mil)  Top Overlay
+   Violation between Text "C18" (645mil,670mil)  Top Overlay and 
+                     Track (667.89mil,698.874mil)(707.26mil,698.874mil)  Top Overlay
+   Violation between Text "C3" (245mil,190mil)  Top Overlay and 
+                     Track (251.528mil,179.214mil)(251.528mil,218.584mil)  Top Overlay
+   Violation between Text "R8" (155mil,105mil)  Top Overlay and 
+                     Track (166.772mil,83.898mil)(166.772mil,146.102mil)  Top Overlay
+   Violation between Text "U7" (145mil,780mil)  Top Overlay and 
+                     Track (157.244mil,674.803mil)(157.244mil,925.197mil)  Top Overlay
+   Violation between Text "C11" (190mil,575mil)  Bottom Overlay and 
+                     Track (185.748mil,575.315mil)(185.748mil,614.685mil)  Bottom Overlay
+   Violation between Text "C7" (65mil,620mil)  Bottom Overlay and 
+                     Track (78.189mil,620.158mil)(101.811mil,620.158mil)  Bottom Overlay
+   Violation between Text "C7" (65mil,620mil)  Bottom Overlay and 
+                     Track (78.189mil,639.842mil)(101.811mil,639.843mil)  Bottom Overlay
+   Violation between Text "Y1" (85mil,750mil)  Bottom Overlay and 
+                     Track (51.204mil,742.457mil)(127.582mil,742.457mil)  Bottom Overlay
+   Violation between Text "C8" (40mil,720mil)  Bottom Overlay and 
+                     Track (51.204mil,742.457mil)(127.582mil,742.457mil)  Bottom Overlay
+   Violation between Text "Y1" (85mil,750mil)  Bottom Overlay and 
+                     Track (51.204mil,648.756mil)(51.204mil,742.457mil)  Bottom Overlay
+   Violation between Text "C7" (65mil,620mil)  Bottom Overlay and 
+                     Track (51.204mil,648.756mil)(51.204mil,742.457mil)  Bottom Overlay
+   Violation between Text "C8" (40mil,720mil)  Bottom Overlay and 
+                     Track (51.204mil,648.756mil)(51.204mil,742.457mil)  Bottom Overlay
+   Violation between Text "C7" (65mil,620mil)  Bottom Overlay and 
+                     Track (51.204mil,648.756mil)(102.123mil,648.756mil)  Bottom Overlay
+   Violation between Text "C22" (210mil,435mil)  Bottom Overlay and 
+                     Track (205.748mil,420.315mil)(205.748mil,459.685mil)  Bottom Overlay
+   Violation between Text "C22" (210mil,435mil)  Bottom Overlay and 
+                     Track (225.394mil,424.685mil)(274.606mil,424.685mil)  Bottom Overlay
+   Violation between Text "D1" (275mil,440mil)  Bottom Overlay and 
+                     Track (274.606mil,424.685mil)(274.606mil,429.606mil)  Bottom Overlay
+   Violation between Text "D1" (275mil,440mil)  Bottom Overlay and 
+                     Track (256.89mil,429.606mil)(274.606mil,429.606mil)  Bottom Overlay
+   Violation between Text "D1" (275mil,440mil)  Bottom Overlay and 
+                     Track (256.89mil,424.685mil)(256.89mil,429.606mil)  Bottom Overlay
+   Violation between Text "R18" (275mil,295mil)  Bottom Overlay and 
+                     Track (225.315mil,319.252mil)(264.685mil,319.252mil)  Bottom Overlay
+   Violation between Text "U4" (175mil,310mil)  Bottom Overlay and 
+                     Track (174.252mil,340.315mil)(174.252mil,379.685mil)  Bottom Overlay
+   Violation between Text "R19" (165mil,345mil)  Bottom Overlay and 
+                     Track (174.252mil,340.315mil)(174.252mil,379.685mil)  Bottom Overlay
+   Violation between Text "U3" (320mil,305mil)  Bottom Overlay and 
+                     Track (284.921mil,345.984mil)(294.37mil,336.535mil)  Bottom Overlay
+   Violation between Text "U3" (320mil,305mil)  Bottom Overlay and 
+                     Track (294.37mil,336.535mil)(325.079mil,336.535mil)  Bottom Overlay
+   Violation between Text "U3" (320mil,305mil)  Bottom Overlay and 
+                     Track (325.079mil,336.535mil)(325.079mil,403.465mil)  Bottom Overlay
+   Violation between Text "R17" (385mil,395mil)  Bottom Overlay and 
+                     Track (325.079mil,336.535mil)(325.079mil,403.465mil)  Bottom Overlay
+   Violation between Text "R17" (385mil,395mil)  Bottom Overlay and 
+                     Track (284.921mil,403.465mil)(325.079mil,403.465mil)  Bottom Overlay
+   Violation between Text "R17" (385mil,395mil)  Bottom Overlay and 
+                     Track (345.315mil,385.748mil)(384.685mil,385.748mil)  Bottom Overlay
+   Violation between Text "U4" (175mil,310mil)  Bottom Overlay and 
+                     Track (136.45mil,305.927mil)(196.458mil,271.281mil)  Bottom Overlay
+   Violation between Text "U4" (175mil,310mil)  Bottom Overlay and 
+                     Track (109.678mil,259.557mil)(136.45mil,305.927mil)  Bottom Overlay
+   Violation between Text "U4" (175mil,310mil)  Bottom Overlay and 
+                     Track (105.091mil,271.407mil)(129.894mil,314.367mil)  Bottom Overlay
+   Violation between Text "C21" (210mil,505mil)  Bottom Overlay and 
+                     Track (205.748mil,510.315mil)(205.748mil,549.685mil)  Bottom Overlay
+   Violation between Text "C10" (315mil,950mil)  Bottom Overlay and 
+                     Track (270.315mil,940.748mil)(309.685mil,940.748mil)  Bottom Overlay
+   Violation between Text "C9" (425mil,900mil)  Bottom Overlay and 
+                     Track (390.315mil,890.748mil)(429.685mil,890.748mil)  Bottom Overlay
+   Violation between Text "C5" (605mil,400mil)  Top Overlay and 
+                     Text "C6" (605mil,435mil)  Top Overlay
+   Violation between Text "C1" (215mil,190mil)  Top Overlay and 
+                     Text "C3" (245mil,190mil)  Top Overlay
+   Violation between Text "C1" (215mil,190mil)  Top Overlay and 
+                     Text "C2" (185mil,190mil)  Top Overlay
+   Violation between Text "R6" (85mil,105mil)  Top Overlay and 
+                     Text "R5" (50mil,105mil)  Top Overlay
+   Violation between Text "R7" (120mil,105mil)  Top Overlay and 
+                     Text "R6" (85mil,105mil)  Top Overlay
+   Violation between Text "R8" (155mil,105mil)  Top Overlay and 
+                     Text "R7" (120mil,105mil)  Top Overlay
+   Violation between Text "R23" (315mil,405mil)  Top Overlay and 
+                     Text "R13" (316.861mil,439.257mil)  Top Overlay
+   Violation between Text "R15" (325mil,785mil)  Top Overlay and 
+                     Text "R14" (360mil,785mil)  Top Overlay
+   Violation between Text "R22" (385mil,874.994mil)  Top Overlay and 
+                     Text "R20" (385mil,850mil)  Top Overlay
+   Violation between Text "R22" (385mil,874.994mil)  Top Overlay and 
+                     Text "R21" (385mil,900mil)  Top Overlay
+   Violation between Text "R19" (165mil,345mil)  Bottom Overlay and 
+                     Text "U4" (175mil,310mil)  Bottom Overlay
+   Violation between Text "R18" (275mil,295mil)  Bottom Overlay and 
+                     Text "U3" (320mil,305mil)  Bottom Overlay
+   Violation between Text "R18" (275mil,295mil)  Bottom Overlay and 
+                     Text "C13" (277.139mil,269.743mil)  Bottom Overlay
+Rule Violations :53
+
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (Disabled)(IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=3mil) (All),(All)
+   Violation between Pad U5-23(621.85mil,827.528mil)  Top CMP/GND and 
+                     Pad U5-24(621.85mil,847.213mil)  Top CMP/GND
+   Violation between Pad U5-22(621.85mil,807.842mil)  Top CMP/GND and 
+                     Pad U5-23(621.85mil,827.528mil)  Top CMP/GND
+   Violation between Pad U5-21(621.85mil,788.158mil)  Top CMP/GND and 
+                     Pad U5-22(621.85mil,807.842mil)  Top CMP/GND
+   Violation between Pad U5-20(621.85mil,768.472mil)  Top CMP/GND and 
+                     Pad U5-21(621.85mil,788.158mil)  Top CMP/GND
+   Violation between Pad U5-19(621.85mil,748.787mil)  Top CMP/GND and 
+                     Pad U5-20(621.85mil,768.472mil)  Top CMP/GND
+   Violation between Pad U5-17(579.528mil,726.15mil)  Top CMP/GND and 
+                     Pad U5-18(599.213mil,726.15mil)  Top CMP/GND
+   Violation between Pad U5-16(559.842mil,726.15mil)  Top CMP/GND and 
+                     Pad U5-17(579.528mil,726.15mil)  Top CMP/GND
+   Violation between Pad U5-15(540.158mil,726.15mil)  Top CMP/GND and 
+                     Pad U5-16(559.842mil,726.15mil)  Top CMP/GND
+   Violation between Pad U5-14(520.472mil,726.15mil)  Top CMP/GND and 
+                     Pad U5-15(540.158mil,726.15mil)  Top CMP/GND
+   Violation between Pad U5-13(500.787mil,726.15mil)  Top CMP/GND and 
+                     Pad U5-14(520.472mil,726.15mil)  Top CMP/GND
+   Violation between Pad U5-11(478.15mil,768.472mil)  Top CMP/GND and 
+                     Pad U5-12(478.15mil,748.787mil)  Top CMP/GND
+   Violation between Pad U5-10(478.15mil,788.158mil)  Top CMP/GND and 
+                     Pad U5-11(478.15mil,768.472mil)  Top CMP/GND
+   Violation between Pad U5-9(478.15mil,807.842mil)  Top CMP/GND and 
+                     Pad U5-10(478.15mil,788.158mil)  Top CMP/GND
+   Violation between Pad U5-8(478.15mil,827.528mil)  Top CMP/GND and 
+                     Pad U5-9(478.15mil,807.842mil)  Top CMP/GND
+   Violation between Pad U5-7(478.15mil,847.213mil)  Top CMP/GND and 
+                     Pad U5-8(478.15mil,827.528mil)  Top CMP/GND
+   Violation between Pad U5-5(520.472mil,869.85mil)  Top CMP/GND and 
+                     Pad U5-6(500.787mil,869.85mil)  Top CMP/GND
+   Violation between Pad U5-4(540.158mil,869.85mil)  Top CMP/GND and 
+                     Pad U5-5(520.472mil,869.85mil)  Top CMP/GND
+   Violation between Pad U5-3(559.842mil,869.85mil)  Top CMP/GND and 
+                     Pad U5-4(540.158mil,869.85mil)  Top CMP/GND
+   Violation between Pad U5-2(579.528mil,869.85mil)  Top CMP/GND and 
+                     Pad U5-3(559.842mil,869.85mil)  Top CMP/GND
+   Violation between Pad U5-1(599.213mil,869.85mil)  Top CMP/GND and 
+                     Pad U5-2(579.528mil,869.85mil)  Top CMP/GND
+   Violation between Pad R22-2(402.48mil,806mil)  Top CMP/GND and 
+                     Pad R20-2(402.48mil,779mil)  Top CMP/GND
+   Violation between Pad R22-1(437.52mil,806mil)  Top CMP/GND and 
+                     Pad R20-1(437.52mil,779mil)  Top CMP/GND
+   Violation between Pad R21-1(402.48mil,833mil)  Top CMP/GND and 
+                     Pad R22-2(402.48mil,806mil)  Top CMP/GND
+   Violation between Pad R21-2(437.52mil,833mil)  Top CMP/GND and 
+                     Pad R22-1(437.52mil,806mil)  Top CMP/GND
+   Violation between Pad U1-9(505mil,439.528mil)  Top CMP/GND and 
+                     Pad C4-1(530mil,458.071mil)  Top CMP/GND
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad C4-1(530mil,458.071mil)  Top CMP/GND
+   Violation between Pad U1-10(480mil,443.858mil)  Top CMP/GND and 
+                     Pad U1-9(505mil,439.528mil)  Top CMP/GND
+   Violation between Pad U1-5(480mil,376.142mil)  Top CMP/GND and 
+                     Pad U1-6(505mil,380.472mil)  Top CMP/GND
+   Violation between Pad U1-5(480mil,376.142mil)  Top CMP/GND and 
+                     Pad U1-4(455mil,380.472mil)  Top CMP/GND
+   Violation between Pad U1-10(480mil,443.858mil)  Top CMP/GND and 
+                     Pad U1-1(455mil,439.528mil)  Top CMP/GND
+   Violation between Pad U1-10(480mil,443.858mil)  Top CMP/GND and 
+                     Pad U1-2(455mil,419.842mil)  Top CMP/GND
+   Violation between Pad U1-5(480mil,376.142mil)  Top CMP/GND and 
+                     Pad U1-3(455mil,400.158mil)  Top CMP/GND
+   Violation between Pad U1-5(480mil,376.142mil)  Top CMP/GND and 
+                     Pad U1-7(505mil,400.158mil)  Top CMP/GND
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad U1-5(480mil,376.142mil)  Top CMP/GND
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad U1-5(480mil,376.142mil)  Top CMP/GND
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad U1-5(480mil,376.142mil)  Top CMP/GND
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad U1-5(480mil,376.142mil)  Top CMP/GND
+   Violation between Pad U1-10(480mil,443.858mil)  Top CMP/GND and 
+                     Pad U1-8(505mil,419.842mil)  Top CMP/GND
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad U1-10(480mil,443.858mil)  Top CMP/GND
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad U1-10(480mil,443.858mil)  Top CMP/GND
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad U1-10(480mil,443.858mil)  Top CMP/GND
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad U1-10(480mil,443.858mil)  Top CMP/GND
+Rule Violations :42
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=100mil) (Preferred=12mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=12mil) (Air Gap=5mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=4mil) ((InNet('VBAT') OR InNet('VCC3V3') OR InNet('VCC5VUSB') OR InNet('GND'))),(All)
+Rule Violations :0
+
+
+Violations Detected : 95
+Time Elapsed        : 00:00:03

@@ -1,0 +1,16 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: mini-dvm.PcbDoc   12/31/2015  7:47:45 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top CMP/GND to Bottom CMP/GND
+ASCII RoundHoles File : mini-dvm.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        10mil (0.254mm)          Round          108              9.35 Inch (237.56 mm)
+T2        15mil (0.381mm)          Round          1                0.00 Inch (0.00 mm)
+T3        22mil (0.5588mm)         Round          8                0.53 Inch (13.46 mm)
+---------------------------------------------------------------------------
+Totals                                            117              9.88 Inch (251.02 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
